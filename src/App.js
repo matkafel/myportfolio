@@ -26,7 +26,7 @@ const App = () => {
 		<>
 			<Router>	
 				<Routes>
-					<Route exact  path="/myportfolio" element={<MainPage/>} />
+					<Route exact  path="/" element={<MainPage/>} />
 					<Route exact  path="/project/:id" element={<ProjectDetailsPage/>} />
 					<Route exact  path="/app/:id" element={<AppDetailsPage/>} />
 				</Routes>
