@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.ad2b2d42.css",
-    "main.js": "/myportfolio/static/js/main.01233a50.js",
+    "main.js": "/myportfolio/static/js/main.c17a7589.js",
     "static/media/ufc.png": "/myportfolio/static/media/ufc.b637b436e91e216bcddd.png",
     "static/media/kobietaPo60.png": "/myportfolio/static/media/kobietaPo60.fb10e49559cdf65cb1f2.png",
     "static/media/alpinisci.png": "/myportfolio/static/media/alpinisci.d27a9a6c8aedfee69d69.png",
@@ -22,9 +22,9 @@
     "static/media/nubla.png": "/myportfolio/static/media/nubla.6c4b95c595bb5d25e308.png",
     "static/media/berbeciowo.png": "/myportfolio/static/media/berbeciowo.de1a92fa4db7f88efb00.png",
     "static/media/covidTracer.png": "/myportfolio/static/media/covidTracer.d4421b8257e8306211c1.png",
+    "static/media/pdf.pdf": "/myportfolio/static/media/pdf.0f8091de7a3ac96ff909.pdf",
     "static/media/Speakemy.png": "/myportfolio/static/media/Speakemy.54bf753287ad59357ed8.png",
     "static/media/speakemy.png": "/myportfolio/static/media/speakemy.40040aff473e4b95ff10.png",
-    "static/media/pdf.pdf": "/myportfolio/static/media/pdf.4eebf61f43bf22596c7e.pdf",
     "static/media/about.svg": "/myportfolio/static/media/about.e4393176a09cd16a87ed8f4f66d6452a.svg",
     "static/media/home.svg": "/myportfolio/static/media/home.b93d9d5ade42cf6b0dde36168609f9bc.svg",
     "static/media/slick.svg": "/myportfolio/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -33,10 +33,10 @@
     "static/media/slick.woff": "/myportfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/myportfolio/index.html",
     "main.ad2b2d42.css.map": "/myportfolio/static/css/main.ad2b2d42.css.map",
-    "main.01233a50.js.map": "/myportfolio/static/js/main.01233a50.js.map"
+    "main.c17a7589.js.map": "/myportfolio/static/js/main.c17a7589.js.map"
   },
   "entrypoints": [
     "static/css/main.ad2b2d42.css",
-    "static/js/main.01233a50.js"
+    "static/js/main.c17a7589.js"
   ]
 }
