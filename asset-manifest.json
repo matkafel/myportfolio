@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.ad2b2d42.css",
+    "main.js": "/myportfolio/static/js/main.01233a50.js",
+    "static/media/ufc.png": "/myportfolio/static/media/ufc.b637b436e91e216bcddd.png",
+    "static/media/kobietaPo60.png": "/myportfolio/static/media/kobietaPo60.fb10e49559cdf65cb1f2.png",
+    "static/media/alpinisci.png": "/myportfolio/static/media/alpinisci.d27a9a6c8aedfee69d69.png",
+    "static/media/hodowlapasja.png": "/myportfolio/static/media/hodowlapasja.e318e972574d768d0a1b.png",
+    "static/media/CarWebsite.png": "/myportfolio/static/media/CarWebsite.11438981ad340a28399d.png",
+    "static/media/MebleFryzjerskie.png": "/myportfolio/static/media/MebleFryzjerskie.438372e1098850d16a96.png",
+    "static/media/slaskiemieszkania.png": "/myportfolio/static/media/slaskiemieszkania.7b14f46f00026d4919d9.png",
+    "static/media/sfs.png": "/myportfolio/static/media/sfs.9b2abaec0783c1885a2f.png",
+    "static/media/Panczo.png": "/myportfolio/static/media/Panczo.42329d02158c70da6d1d.png",
+    "static/media/Fabulo.png": "/myportfolio/static/media/Fabulo.370a51fb716996e585b7.png",
+    "static/media/janosz.png": "/myportfolio/static/media/janosz.24ae201de1728cea5742.png",
+    "static/media/futbola.png": "/myportfolio/static/media/futbola.0d3244b93995680dc443.png",
+    "static/media/suplevita.png": "/myportfolio/static/media/suplevita.57c632d88ee12e10018b.png",
+    "static/media/Telpol.png": "/myportfolio/static/media/Telpol.7e1a65d4b778daa4eb3c.png",
+    "static/media/AptekaMaszyn.png": "/myportfolio/static/media/AptekaMaszyn.c094c13b737773e4ac47.png",
+    "static/media/apgo.png": "/myportfolio/static/media/apgo.71571be695e7ab125f9f.png",
+    "static/media/fabulo.png": "/myportfolio/static/media/fabulo.858c228868ab8bf04702.png",
+    "static/media/nubla.png": "/myportfolio/static/media/nubla.6c4b95c595bb5d25e308.png",
+    "static/media/berbeciowo.png": "/myportfolio/static/media/berbeciowo.de1a92fa4db7f88efb00.png",
+    "static/media/covidTracer.png": "/myportfolio/static/media/covidTracer.d4421b8257e8306211c1.png",
+    "static/media/Speakemy.png": "/myportfolio/static/media/Speakemy.54bf753287ad59357ed8.png",
+    "static/media/speakemy.png": "/myportfolio/static/media/speakemy.40040aff473e4b95ff10.png",
+    "static/media/pdf.pdf": "/myportfolio/static/media/pdf.4eebf61f43bf22596c7e.pdf",
+    "static/media/about.svg": "/myportfolio/static/media/about.e4393176a09cd16a87ed8f4f66d6452a.svg",
+    "static/media/home.svg": "/myportfolio/static/media/home.b93d9d5ade42cf6b0dde36168609f9bc.svg",
+    "static/media/slick.svg": "/myportfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/myportfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/myportfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/myportfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/myportfolio/index.html",
+    "main.ad2b2d42.css.map": "/myportfolio/static/css/main.ad2b2d42.css.map",
+    "main.01233a50.js.map": "/myportfolio/static/js/main.01233a50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad2b2d42.css",
+    "static/js/main.01233a50.js"
+  ]
+}
