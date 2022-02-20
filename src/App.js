@@ -1,25 +1,43 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import { ThemeProvider } from 'styled-components';
 
-function App() {
+import MainPage from './Pages/MainPage/MainPage'
+import ProjectDetailsPage from './Pages/ProjectDetailsPage/ProjectDetailsPage';
+import AppDetailsPage from './Pages/ProjectDetailsPage/AppDetailsPage';
+
+import { lightTheme, darkTheme } from './theme/theme';
+import { GlobalStyles } from './theme/globalStyle';
+import { SunIcon, MoonIcon, ThemeButton } from './App.style';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import "aos/dist/aos.css";
+
+const App = () => {
+  const [theme, setTheme] = useState('light');
+
+  const toggleTheme = () => {
+    if (theme === 'light') {
+      setTheme('dark');
+    } else {
+      setTheme('light');
+    }
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+		<>
+			<Router>	
+				<Routes>
+					<Route exact  path="/" element={<MainPage/>} />
+					<Route exact  path="/project/:id" element={<ProjectDetailsPage/>} />
+					<Route exact  path="/app/:id" element={<AppDetailsPage/>} />
+				</Routes>
+        <ThemeProvider theme={theme === 'light' ? lightTheme : darkTheme}>
+          <GlobalStyles />
+          <ThemeButton onClick={toggleTheme}>{theme === 'light' ? <MoonIcon className="far fa-moon"></MoonIcon> : <SunIcon className="fas fa-sun"></SunIcon>}</ThemeButton>
+        </ThemeProvider>
+			</Router>	
+				</>
   );
-}
+} 
 
-export default App;
+export default App
+
